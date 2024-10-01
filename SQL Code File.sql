@@ -1,7 +1,6 @@
 /*
 Author: Alvin Hartridge Jr.
 Project Title: Pizza Sale Report
-Date: September 2024
 
 Purpose: Analyze key indicators our pizza sales data to gain insights into our business performance. Specifically, calucate the following metrics:
 	1. Total Revenue: The sum of the total price of all pizza orders.
